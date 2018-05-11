@@ -20,4 +20,4 @@ public class AccountTriggerHandler  {
 
         update cases;
     }
- }
+ } 
